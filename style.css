@@ -1,10 +1,10 @@
-.body {
-    background-color: gray;
+body {
+    background-color: rgb(48, 47, 47);
     color: azure;
 }
-.h1
+h1
 {
-    color: aliceblue;
+    color: rgb(255, 255, 255);
 }
 img {
     background-color: rgb(24, 24, 26);
